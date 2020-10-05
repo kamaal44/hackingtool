@@ -23,9 +23,9 @@ echo "  ███    ███     ███    ███ ███    ███
 echo "  ███    █▀      ███    █▀  ████████▀    ███   ▀█▀ █▀    ▀█   █▀    ████████▀          ▄████▀    ▀██████▀   ▀██████▀  █████▄▄██ ";
 echo "                                         ▀                                                                            ▀         ";                         
 
-echo -e "${BLUE}                                    Github.com/Z4nzu ${NC}"
+echo -e "${RED}                                    Github.com/kamaal44 ${NC}"
 
-echo -e "${RED}                                   [!] This Tool Must Run As ROOT [!]${NC}"
+echo -e "${BLUE}                                   [!] This Tool Must Run As ROOT [!]${NC}"
 echo -e "${WHITE}[>] Press ENTER to Install Hacking Tool, CTRL+C to Abort.${NC}"
 read INPUT
 echo ""
@@ -52,7 +52,7 @@ fi
 
 echo "[✔] Installing ...";
 echo "";
-git clone https://github.com/Z4nzu/hackingtool.git "$INSTALL_DIR";
+git clone https://github.com/kamaal44/hackingtool.git "$INSTALL_DIR";
 echo "#!/bin/bash
 python3 $INSTALL_DIR/hackingtool.py" '${1+"$@"}' > hackingtool;
 chmod +x hackingtool;
@@ -66,7 +66,7 @@ then
     echo "[✔] Successfuly Installed !!! [✔]";
     echo "";
     echo "[✔]========================================================================[✔]";
-    echo "[✔] ✔✔✔ All Is Done!! you can execute tool by typing hackingtool !! ✔✔✔ [✔]";
+    echo "[✔] ✔✔✔ All Is Done Hawshu hada way dhantahy !! you can execute tool by typing hackingtool !! ✔✔✔ [✔]";
     echo "[✔]========================================================================[✔]";
     echo "";
 else
