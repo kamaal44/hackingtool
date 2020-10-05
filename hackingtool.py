@@ -41,7 +41,7 @@ Logo="""\033[33m
   ███    █▀      ███    █▀  ████████▀    ███   ▀█▀ █▀    ▀█   █▀    ████████▀          ▄████▀    ▀██████▀   ▀██████▀  █████▄▄██ 
                                          ▀                                                                            ▀                             
 
-                                    \033[97m[!] https://github.com/Z4nzu/hackingtool
+                                    \033[97m[!] https://github.com/kamaal44/hackingtool
 \033[97m """
 def menu():
     print(Logo + """\033[0m 
